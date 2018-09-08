@@ -21,7 +21,7 @@ Kami mengundang semua kalangan untuk berbicara seputar teknologi saat ini dan ya
 
 Dengan menggunakan GitHub issue, semua anggota dapat berinteraksi dengan pembicara, dari mengajukan pertanyaan, memberi tanggapan, mengikuti percakapan, hingga mengunggah presentasi topik yang telah dibawakan.
 
-Kirim proposal dengan [membuat isu baru](https://github.com/BekasiTechtalk/talks/issues/new) dengan format yang telah ditentukan, dengan contoh seperti dibawah ini :
+Kirim proposal dengan [membuat isu baru](https://github.com/BekasiTechtalk/talks/issues) dengan format yang telah ditentukan, dengan contoh seperti dibawah ini :
 
 | * | Deskripsi | 
 |---|---|
