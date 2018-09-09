@@ -17,7 +17,7 @@ Selamat datang para `pengembang` / `pengguna` / `pecinta` / `pemula` / `penjelaj
 
 ### Proposal
 
-Kami mengundang semua kalangan untuk berbicara seputar teknologi saat ini dan yang akan datang pada seluruh ruang lingkup, dari hal non-teknis hingga hal teknis sekalipun.
+Kami mengundang semua kalangan yang ingin berbagi pengalaman untuk berbicara seputar teknologi saat ini dan yang akan datang pada seluruh ruang lingkup, dari hal non-teknis hingga hal teknis sekalipun, dengan memberikan presentasi, *workshop* atau *lightning talk*.
 
 Dengan menggunakan GitHub issue, semua anggota dapat berinteraksi dengan pembicara, dari mengajukan pertanyaan, memberi tanggapan, mengikuti percakapan, hingga mengunggah presentasi topik yang telah dibawakan.
 
@@ -29,7 +29,7 @@ Kirim proposal dengan [membuat isu baru](https://github.com/BekasiTechtalk/talks
 | <b>Waktu</b> | 30 menit |
 | <b>Deskripsi</b>  | Sebuah pengantar tentang mengapa Jest sangat berbeda, mengapa menggunakannya untuk menghemat waktu, uang, dan test coverage dibandingkan dengan kerangka lain. Anda juga akan belajar cara memulai atau mengubah proyek ke Jest. |
 
-Jika anda tidak ingin topik yang akan anda bawakan terlihat pada seluruh anggota, anda dapat mengirimkan pesan kepada pengurus grup di email, Meetup, ataupun Telegram.
+Jika anda tidak ingin topik yang akan anda bawakan terlihat pada seluruh anggota, anda dapat mengirimkan pesan kepada pengurus acara melalui email, Meetup, ataupun Telegram.
 
 
 ### Ide & Sponsor
