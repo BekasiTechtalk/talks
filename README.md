@@ -34,4 +34,4 @@ Jika anda tidak ingin topik yang akan anda bawakan terlihat pada seluruh anggota
 
 ### Ide & Sponsor
 
-Jika anda memiliki ide ataupun sponsor untuk acara **Bekasi Techtalk**, anda dapat mengirimkan pesan kepada pengurus grup di email, Meetup, ataupun Telegram.
+Jika anda memiliki ide ataupun sponsor untuk mendukung acara **Bekasi Techtalk**, seperti penggunaan tempat, makanan & minuman, atau hal lainnya, silahkan mengirimkan pesan kepada pengurus acara melalui email, Meetup, ataupun Telegram.
