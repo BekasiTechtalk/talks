@@ -35,3 +35,11 @@ Jika anda tidak ingin topik yang akan anda bawakan terlihat pada seluruh anggota
 ### Ide & Sponsor
 
 Jika anda memiliki ide ataupun sponsor untuk mendukung acara **Bekasi Techtalk**, seperti penggunaan tempat, makanan & minuman, atau hal lainnya, silahkan mengirimkan pesan kepada pengurus acara melalui email, Meetup, ataupun Telegram.
+
+<hr>
+
+<p align="center">
+	<a href="https://github.com/bekasitechtalk">GitHub</a> &nbsp;&nbsp;&nbsp;
+	<a href="http://meetu.ps/c/43gn3/7QrkY/f">Meetup</a> &nbsp;&nbsp;&nbsp;
+	<a href="https://t.me/joinchat/IoPmFw9_ylVyH1Dti8pyag">Telegram</a>
+</p>
